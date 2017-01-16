@@ -64,7 +64,7 @@ Trust someone for **$10**:
 settle trust kurt@princetown.edu USD.2 1000
 ```
 
-Trust at a specific rate:
+Trust someone at a specific rate:
 ```
 settle trust supercharger@tesla.com KWH.2 10000 with USD.2 at 20/100
 ```
